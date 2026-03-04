@@ -1,0 +1,488 @@
+division,team,wins,losses,wp,gb,payroll,year,extra
+East,Boston Red Sox,88,74,.543,0,21843333.0,1990,
+East,Toronto Blue Jays,86,76,.531,2,16231854.0,1990,
+East,Detroit Tigers,79,83,.488,9,18248738.0,1990,
+East,Cleveland Indians,77,85,.475,11,13820000.0,1990,
+East,Baltimore Orioles,76,85,.472,11½,7985584.0,1990,
+East,Milwaukee Brewers,74,88,.457,14,18196667.0,1990,
+East,New York Yankees,67,95,.414,21,19339816.0,1990,
+West,Oakland Athletics,103,59,.636,0,21785040.0,1990,
+West,Chicago White Sox,94,68,.580,9,9843529.0,1990,
+West,Texas Rangers,83,79,.512,20,12617333.0,1990,
+West,California Angels,80,82,.494,23,21391152.0,1990,
+West,Seattle Mariners,77,85,.475,26,11918167.0,1990,
+West,Kansas City Royals,75,86,.466,27½,23197845.0,1990,
+West,Minnesota Twins,74,88,.457,29,13528000.0,1990,
+East,Toronto Blue Jays,91,71,.562,0,31016809.0,1991,
+East,Detroit Tigers,84,78,.519,7,24169179.0,1991,
+East,Boston Red Sox,84,78,.519,7,35501537.0,1991,
+East,Milwaukee Brewers,83,79,.512,8,23771616.0,1991,
+East,New York Yankees,71,91,.438,20,31390000.0,1991,
+East,Baltimore Orioles,67,95,.414,24,14396669.0,1991,
+East,Cleveland Indians,57,105,.352,34,13133428.0,1991,
+West,Minnesota Twins,95,67,.586,0,22514814.0,1991,
+West,Chicago White Sox,87,75,.537,8,16694979.0,1991,
+West,Texas Rangers,85,77,.525,10,22525314.0,1991,
+West,Oakland Athletics,84,78,.519,11,39906167.0,1991,
+West,Seattle Mariners,83,79,.512,12,16431833.0,1991,
+West,Kansas City Royals,82,80,.506,13,31117661.0,1991,
+West,California Angels,81,81,.500,14,31996561.0,1991,
+East,Toronto Blue Jays,96,66,.593,0,48991840.0,1992,
+East,Milwaukee Brewers,92,70,.568,4,29849670.0,1992,
+East,Baltimore Orioles,89,73,.549,7,23023330.0,1992,
+East,New York Yankees,76,86,.469,20,34789500.0,1992,
+East,Cleveland indians,76,86,.469,20,8399711.0,1992,
+East,Detroit Tigers,75,87,.463,21,29479830.0,1992,
+East,Boston Red Sox,73,89,.451,23,41887250.0,1992,
+West,Oakland Athletics,96,66,.593,0,47372810.0,1992,
+West,Minnesota Twins,90,72,.556,6,26222830.0,1992,
+West,Chicago White Sox,86,76,.531,10,29524500.0,1992,
+West,Texas Rangers,77,85,.475,19,25323000.0,1992,
+West,Kansas City Royals,72,90,.444,24,30248830.0,1992,
+West,California Angels,72,90,.444,24,26343670.0,1992,
+West,Seattle Mariners,64,98,.395,32,23831330.0,1992,
+East,Toronto Blue Jays,95,67,.586,0,51935034.0,1993,
+East,New York Yankees,88,74,.543,7,46588791.0,1993,
+East,Baltimore Orioles,85,77,.525,10,29253066.0,1993,
+East,Detroit Tigers,85,77,.525,10,38038498.0,1993,
+East,Boston Red Sox,80,82,.494,15,46164788.0,1993,
+East,Cleveland Indians,76,86,.469,19,16690997.0,1993,
+East,Milwaukee Brewers,69,93,.426,26,25635387.0,1993,
+West,Chicago White Sox,94,68,.580,0,42115723.0,1993,
+West,Texas Rangers,86,76,.531,8,39959690.0,1993,
+West,Kansas City Royals,84,78,.519,10,40164878.0,1993,
+West,Seattle Mariners,82,80,.506,12,33311042.0,1993,
+West,California Angels,71,91,.438,23,27444899.0,1993,
+West,Minnesota Twins,71,91,.438,23,27127768.0,1993,
+West,Oakland Athletics,68,94,.420,26,35351334.0,1993,
+East,New York Yankees,70,43,.619,0,47512342.0,1994,
+East,Baltimore Orioles,63,49,.563,6½,38711487.0,1994,
+East,Toronto Blue Jays,55,60,.478,16,42265168.0,1994,
+East,Boston Red Sox,54,61,.470,17,36337937.0,1994,
+East,Detroit Tigers,53,62,.461,18,41118509.0,1994,
+Central,Chicago White Sox,67,46,.593,0,40144836.0,1994,
+Central,Cleveland Indians,66,47,.584,1,31705667.0,1994,
+Central,Kansas City Royals,64,51,.557,4,40667375.0,1994,
+Central,Minnesota Twins,53,60,.469,14,25053237.0,1994,
+Central,Milwaukee Brewers,53,62,.461,15,24786857.0,1994,
+West,Texas Rangers,52,62,.456,0,32399097.0,1994,
+West,Oakland Athletics,51,63,.447,1,34574000.0,1994,
+West,Seattle Mariners,49,63,.438,2,28463110.0,1994,
+West,California Angels,47,68,.409,5½,24528385.0,1994,
+East,Boston Red Sox,86,58,.597,0,38157750.0,1995,
+East,New York Yankees,79,65,.549,7,58165252.0,1995,
+East,Baltimore Orioles,71,73,.493,15,48739636.0,1995,
+East,Detroit Tigers,60,84,.417,26,28663667.0,1995,
+East,Toronto Blue Jays,56,88,.389,30,42233500.0,1995,
+Central,Cleveland Indians,100,44,.694,0,40180750.0,1995,
+Central,Kansas City Royals,70,74,.486,30,31181334.0,1995,
+Central,Chicago White Sox,68,76,.472,32,40750782.0,1995,
+Central,Milwaukee Brewers,65,79,.451,35,17407385.0,1995,
+Central,Minnesota Twins,56,88,.389,44,15362750.0,1995,
+West,Seattle Mariners,79,66,.545,0,37984610.0,1995,
+West,California Angels,78,67,.538,1,34702577.0,1995,
+West,Texas Rangers,74,70,.514,4½,35888725.0,1995,
+West,Oakland Athletics,67,77,.465,11½,33372722.0,1995,
+East,New York Yankees,92,70,.568,0,61511870.0,1996,
+East,Baltimore Orioles,88,74,.543,4,55127855.0,1996,
+East,Boston Red Sox,85,77,.525,7,38516402.0,1996,
+East,Toronto Blue Jays,74,88,.457,18,28778577.0,1996,
+East,Detroit Tigers,53,109,.327,39,17955500.0,1996,
+Central,Cleveland Indians,99,62,.615,0,47686907.0,1996,
+Central,Chicago White Sox,85,77,.525,14½,44827833.0,1996,
+Central,Milwaukee Brewers,80,82,.494,19½,11701000.0,1996,
+Central,Minnesota Twins,78,84,.484,21½,21254000.0,1996,
+Central,Kansas City Royals,75,86,.466,24,19980250.0,1996,
+West,Texas Rangers,90,72,.556,0,41080028.0,1996,
+West,Seattle Mariners,85,76,.528,4½,43131001.0,1996,
+West,Oakland Athletics,78,84,.481,12,22524093.0,1996,
+West,California Angels,70,91,.435,19½,25140142.0,1996,
+East,Baltimore Orioles,98,64,.605,0,64611399.0,1997,
+East,New York Yankees,96,66,.593,2,73389577.0,1997,
+East,Detroit Tigers,79,83,.488,19,20985500.0,1997,
+East,Boston Red Sox,78,84,.481,20,40611351.0,1997,
+East,Toronto Blue Jays,76,86,.469,22,48964833.0,1997,
+Central,Cleveland Indians,86,75,.534,0,58865056.0,1997,
+Central,Chicago White Sox,80,81,.497,6,41849500.0,1997,
+Central,Milwaukee Brewers,78,83,.484,8,26564840.0,1997,
+Central,Minnesota Twins,68,94,.420,18½,32197500.0,1997,
+Central,Kansas City Royals,67,94,.416,19,33868149.0,1997,
+West,Seattle Mariners,90,72,.556,0,46298970.0,1997,
+West,Anaheim Angels,84,78,.519,6,46684364.0,1997,
+West,Texas Rangers,77,85,.475,13,44591013.0,1997,
+West,Oakland Athletics,65,97,.401,25,12879889.0,1997,
+East,New York Yankees,114,48,.704,0,73963698.0,1998,
+East,Boston Red Sox,92,70,.568,22,59547000.0,1998,
+East,Toronto Blue Jays,88,74,.543,26,37618500.0,1998,
+East,Baltimore Orioles,79,83,.488,35,74170921.0,1998,
+East,Tampa Bay Devil Rays,63,99,.389,51,27645000.0,1998,
+Central,Cleveland Indians,89,73,.549,0,56843441.0,1998,
+Central,Chicago White Sox,80,82,.494,9,37880000.0,1998,
+Central,Kansas City Royals,72,89,.447,16½,35610000.0,1998,
+Central,Minnesota Twins,70,92,.432,19,22027500.0,1998,
+Central,Detroit Tigers,65,97,.401,24,23318980.0,1998,
+West,Texas Rangers,88,74,.543,0,62755368.0,1998,
+West,Anaheim Angels,85,77,.525,3,54189000.0,1998,
+West,Seattle Mariners,76,85,.472,11½,44860014.0,1998,
+West,Oakland Athletics,74,88,.457,14,18585114.0,1998,
+East,New York Yankees,98,64,.605,0,91990955.0,1999,
+East,Boston Red Sox,94,68,.580,4,72330656.0,1999,
+East,Toronto Blue Jays,84,78,.519,14,48847300.0,1999,
+East,Baltimore Orioles,78,84,.481,20,75443363.0,1999,
+East,Tampa Bay Devil Rays,69,93,.426,29,37860451.0,1999,
+Central,Cleveland Indians,97,65,.599,0,73531692.0,1999,
+Central,Chicago White Sox,75,86,.466,21½,24535000.0,1999,
+Central,Detroit Tigers,69,92,.429,27½,36954666.0,1999,
+Central,Kansas City Royals,64,97,.398,32½,16557000.0,1999,
+Central,Minnesota Twins,63,97,.394,33,15845000.0,1999,
+West,Texas Rangers,95,67,.586,0,80801598.0,1999,
+West,Oakland Athletics,87,75,.537,8,25208858.0,1999,
+West,Seattle Mariners,79,83,.488,16,45351254.0,1999,
+West,Anaheim Angels,70,92,.432,25,51340257.0,1999,
+East,New York Yankees,87,74,.540,0,92538260.0,2000,
+East,Boston Red Sox,85,77,.525,2½,77940333.0,2000,
+East,Toronto Blue Jays,83,79,.512,4½,46238333.0,2000,
+East,Baltimore Orioles,74,88,.457,13½,81447435.0,2000,
+East,Tampa Bay Devil Rays,69,92,.429,18,62765129.0,2000,
+Central,Chicago White Sox,95,67,.586,0,31133500.0,2000,
+Central,Cleveland Indians,90,72,.556,5,75880971.0,2000,
+Central,Detroit Tigers,79,83,.488,16,58265167.0,2000,
+Central,Kansas City Royals,77,85,.475,18,23433000.0,2000,
+Central,Minnesota Twins,69,93,.426,26,16519500.0,2000,
+West,Oakland Athletics,91,70,.565,0,31971333.0,2000,
+West,Seattle Mariners,91,71,.562,½,58915000.0,2000,
+West,Anaheim Angels,82,80,.506,9½,51464167.0,2000,
+West,Texas Rangers,71,91,.438,20½,70795921.0,2000,
+East,New York Yankees,95,65,.594,0,109791893.0,2001,
+East,Boston Red Sox,82,79,.509,13½,109558908.0,2001,
+East,Toronto Blue Jays,80,82,.494,16,75798500.0,2001,
+East,Baltimore Orioles,63,98,.391,32½,72426328.0,2001,
+East,Tampa Bay Devil Rays,62,100,.383,34,54798500.0,2001,
+Central,Cleveland Indians,91,71,.562,0,91974979.0,2001,
+Central,Minnesota Twins,85,77,.525,6,24350000.0,2001,
+Central,Chicago White Sox,83,79,.512,8,62363000.0,2001,
+Central,Detroit Tigers,66,96,.407,25,49831167.0,2001,
+Central,Kansas City Royals,65,97,.401,26,35643000.0,2001,
+West,Seattle Mariners,116,46,.716,0,75652500.0,2001,
+West,Oakland Athletics,102,60,.630,13,33810750.0,2001,
+West,Anaheim Angels,75,87,.463,41,46568180.0,2001,
+West,Texas Rangers,73,89,.451,43,88504421.0,2001,
+East,New York Yankees,103,58,.640,--,125928583.0,2002,
+East,Boston Red Sox,93,69,.574,10½,108366060.0,2002,
+East,Toronto Blue Jays,78,84,.481,25½,76864333.0,2002,
+East,Baltimore Orioles,67,95,.414,36½,60493487.0,2002,
+East,Tampa Bay Devil Rays,55,106,.342,48,34380000.0,2002,
+Central,Minnesota Twins,94,67,.584,--,40225000.0,2002,
+Central,Chicago White Sox,81,81,.500,13½,57052833.0,2002,
+Central,Cleveland Indians,74,88,.457,20½,78909448.0,2002,
+Central,Kansas City Royals,62,100,.383,32½,47257000.0,2002,
+Central,Detroit Tigers,55,106,.342,39,55048000.0,2002,
+West,Oakland Athletics,103,59,.636,--,39679746.0,2002,
+West,Anaheim Angels,99,63,.611,4,61721667.0,2002,
+West,Seattle Mariners,93,69,.574,10,80282668.0,2002,
+West,Texas Rangers,72,90,.444,31,105302124.0,2002,
+East,New York Yankees,101,61,1,.623,,2003,"$152,749,814"
+East,Boston Red Sox,95,67,0,.586,6.0,2003,"$99,946,500"
+East,Toronto Blue Jays,86,76,0,.531,15.0,2003,"$51,269,000"
+East,Baltimore Orioles,71,91,1,.438,30.0,2003,"$73,877,500"
+East,Tampa Bay Devil Rays,63,99,0,.389,38.0,2003,"$19,630,000"
+Central,Minnesota Twins,90,72,0,.556,,2003,"$55,505,000"
+Central,Chicago White Sox,86,76,0,.531,4.0,2003,"$51,010,000"
+Central,Kansas City Royals,83,79,0,.512,7.0,2003,"$40,518,000"
+Central,Cleveland Indians,68,94,0,.420,22.0,2003,"$48,584,834"
+Central,Detroit Tigers,43,119,0,.265,47.0,2003,"$49,168,000"
+West,Oakland Athletics,96,66,0,.593,,2003,"$50,260,834"
+West,Seattle Mariners,93,69,0,.574,3.0,2003,"$86,959,167"
+West,Anaheim Angels,77,85,0,.475,19.0,2003,"$79,031,667"
+West,Texas Rangers,71,91,0,.438,25.0,2003,"$103,491,667"
+East,New York Yankees,101,61,0,.623,,2004,"$182,835,513"
+East,Boston Red Sox,98,64,0,.605,3.0,2004,"$125,208,542"
+East,Baltimore Orioles,78,84,0,.481,23.0,2004,"$51,212,653"
+East,Tampa Bay Devil Rays,70,91,0,.435,,2004,"$29,506,667"
+East,Toronto Blue Jays,67,94,0,.416,,2004,"$50,017,000"
+Central,Minnesota Twins,92,70,0,.568,,2004,"$53,585,000"
+Central,Chicago White Sox,83,79,0,.512,9.0,2004,"$76,212,500"
+Central,Cleveland Indians,80,82,0,.494,12.0,2004,"$34,569,300"
+Central,Detroit Tigers,72,90,0,.444,20.0,2004,"$46,353,554"
+Central,Kansas City Royals,58,104,0,.358,34.0,2004,"$47,609,000"
+West,Anaheim Angels,92,70,0,.568,,2004,"$101,084,667"
+West,Oakland Athletics,91,71,0,.562,1.0,2004,"$59,825,167"
+West,Texas Rangers,89,73,0,.549,3.0,2004,"$54,825,973"
+West,Seattle Mariners,63,99,0,.389,29.0,2004,"$81,543,833"
+East,New York Yankees,95,67,0,.586,,2005,"$208,206,817"
+East,Boston Red Sox,95,67,0,.586,,2005,"$123,505,125"
+East,Toronto Blue Jays,80,82,0,.494,15.0,2005,"$45,719,500"
+East,Baltimore Orioles,74,88,0,.457,21.0,2005,"$73,914,333"
+East,Tampa Bay Devil Rays,67,95,0,.414,28.0,2005,"$29,363,067"
+Central,Chicago White Sox,99,63,0,.611,,2005,"$75,178,000"
+Central,Cleveland Indians,93,69,0,.574,6.0,2005,"$41,502,500"
+Central,Minnesota Twins,83,79,0,.512,16.0,2005,"$56,186,000"
+Central,Detroit Tigers,71,91,0,.438,28.0,2005,"$69,092,000"
+Central,Kansas City Royals,56,106,0,.346,43.0,2005,"$36,881,000"
+West,Los Angeles Angels of Anaheim,95,67,0,.586,,2005,"$97,725,322"
+West,Oakland Athletics,88,74,0,.543,7.0,2005,"$55,425,762"
+West,Texas Rangers,79,83,0,.488,16.0,2005,"$55,849,000"
+West,Seattle Mariners,69,93,0,.426,26.0,2005,"$87,754,334"
+East,New York Yankees,97,65,0,.599,,2006,"$194,663,079"
+East,Toronto Blue Jays,87,75,0,.537,10.0,2006,"$71,915,000"
+East,Boston Red Sox,86,76,0,.531,11.0,2006,"$120,099,824"
+East,Baltimore Orioles,70,92,0,.432,27.0,2006,"$72,585,582"
+East,Tampa Bay Devil Rays,61,101,0,.377,36.0,2006,"$35,417,967"
+Central,Minnesota Twins,96,66,0,.593,,2006,"$63,396,006"
+Central,Detroit Tigers,95,67,0,.586,1.0,2006,"$82,612,866"
+Central,Chicago White Sox,90,72,0,.556,6.0,2006,"$102,750,667"
+Central,Cleveland Indians,78,84,0,.481,18.0,2006,"$56,031,500"
+Central,Kansas City Royals,62,100,0,.383,34.0,2006,"$47,294,000"
+West,Oakland Athletics,93,69,0,.574,,2006,"$62,243,079"
+West,Los Angeles Angels,89,73,0,.549,4.0,2006,"$103,472,000"
+West,Texas Rangers,80,82,0,.494,13.0,2006,"$68,228,662"
+West,Seattle Mariners,78,84,0,.481,15.0,2006,"$87,959,833"
+East,Boston Red Sox,96,66,0,.593,,2007,"$143,026,214"
+East,New York Yankees,94,68,0,.580,2.0,2007,"$189,639,045"
+East,Toronto Blue Jays,83,79,0,.512,13.0,2007,"$81,942,800"
+East,Baltimore Orioles,69,93,0,.426,27.0,2007,"$93,554,808"
+East,Tampa Bay Devil Rays,66,96,0,.407,30.0,2007,"$24,123,500"
+Central,Cleveland Indians,96,66,0,.593,,2007,"$61,673,267"
+Central,Detroit Tigers,88,74,0,.543,8.0,2007,"$95,180,369"
+Central,Minnesota Twins,79,83,0,.488,17.0,2007,"$71,439,500"
+Central,Chicago White Sox,72,90,0,.444,24.0,2007,"$108,671,833"
+Central,Kansas City Royals,69,93,0,.426,27.0,2007,"$67,116,500"
+West,Los Angeles Angels,94,68,0,.580,,2007,"$109,251,333"
+West,Seattle Mariners,88,74,0,.543,6.0,2007,"$106,460,833"
+West,Oakland Athletics,76,86,0,.469,18.0,2007,"$79,366,940"
+West,Texas Rangers,75,87,0,.463,19.0,2007,"$68,318,675"
+East,Tampa Bay Rays,97,65,0,.599,,2008,"$43,820,598"
+East,Boston Red Sox,95,67,0,.586,2.0,2008,"$133,440,037"
+East,New York Yankees,89,73,0,.549,8.0,2008,"$209,081,579"
+East,Toronto Blue Jays,86,76,0,.531,11.0,2008,"$98,641,957"
+East,Baltimore Orioles,68,93,0,.422,,2008,"$67,196,248"
+Central,Chicago White Sox,89,74,0,.546,,2008,"$121,152,667"
+Central,Minnesota Twins,88,75,0,.540,1.0,2008,"$62,182,767"
+Central,Cleveland Indians,81,81,0,.500,,2008,"$78,970,067"
+Central,Kansas City Royals,75,87,0,.463,,2008,"$58,245,500"
+Central,Detroit Tigers,74,88,0,.457,,2008,"$138,685,197"
+West,Los Angeles Angels,100,62,0,.617,,2008,"$119,216,333"
+West,Texas Rangers,79,83,0,.488,21.0,2008,"$68,239,551"
+West,Oakland Athletics,75,86,0,.466,,2008,"$47,967,126"
+West,Seattle Mariners,61,101,0,.377,39.0,2008,"$117,993,982"
+East,New York Yankees,103,59,0,.636,,2009,"$201,449,189"
+East,Boston Red Sox,95,67,0,.586,8.0,2009,"$121,745,999"
+East,Tampa Bay Rays,84,78,0,.519,19.0,2009,"$63,313,034"
+East,Toronto Blue Jays,75,87,0,.463,28.0,2009,"$80,538,300"
+East,Baltimore Orioles,64,98,0,.395,39.0,2009,"$67,101,666"
+Central,Minnesota Twins,87,76,0,.534,,2009,"$65,299,266"
+Central,Detroit Tigers,86,77,0,.528,1.0,2009,"$115,085,145"
+Central,Chicago White Sox,79,83,0,.488,,2009,"$96,068,500"
+Central,Cleveland Indians,65,97,0,.401,,2009,"$81,579,166"
+Central,Kansas City Royals,65,97,0,.401,,2009,"$70,519,333"
+West,Los Angeles Angels,97,65,0,.599,,2009,"$113,709,000"
+West,Texas Rangers,87,75,0,.537,10.0,2009,"$68,178,798"
+West,Seattle Mariners,85,77,0,.525,12.0,2009,"$98,904,166"
+West,Oakland Athletics,75,87,0,.463,22.0,2009,"$62,310,000"
+East,Tampa Bay Rays,96,66,0,.593,,2010,"$71,923,471"
+East,New York Yankees,95,67,0,.586,1.0,2010,"$206,333,389"
+East,Boston Red Sox,89,73,0,.549,7.0,2010,"$162,747,333"
+East,Toronto Blue Jays,85,77,0,.525,11.0,2010,"$62,689,357"
+East,Baltimore Orioles,66,96,0,.407,30.0,2010,"$81,612,500"
+Central,Minnesota Twins,94,68,0,.580,,2010,"$97,559,167"
+Central,Chicago White Sox,88,74,0,.543,6.0,2010,"$108,273,197"
+Central,Detroit Tigers,81,81,0,.500,13.0,2010,"$122,864,929"
+Central,Cleveland Indians,69,93,0,.426,25.0,2010,"$61,203,967"
+Central,Kansas City Royals,67,95,0,.414,27.0,2010,"$72,267,710"
+West,Texas Rangers,90,72,0,.556,,2010,"$55,250,545"
+West,Oakland Athletics,81,81,0,.500,9.0,2010,"$51,654,900"
+West,Los Angeles Angels,80,82,0,.494,10.0,2010,"$105,013,667"
+West,Seattle Mariners,61,101,0,.377,29.0,2010,"$98,376,667"
+East,New York Yankees,97,65,0,.599,,2011,"$202,689,028"
+East,Tampa Bay Rays,91,71,0,.562,6.0,2011,"$41,053,571"
+East,Boston Red Sox,90,72,0,.556,7.0,2011,"$161,762,475"
+East,Toronto Blue Jays,81,81,0,.500,16.0,2011,"$62,567,800"
+East,Baltimore Orioles,69,93,0,.426,28.0,2011,"$85,304,038"
+Central,Detroit Tigers,95,67,0,.586,,2011,"$105,700,231"
+Central,Cleveland Indians,80,82,0,.494,15.0,2011,"$49,190,566"
+Central,Chicago White Sox,79,83,0,.488,16.0,2011,"$127,789,000"
+Central,Kansas City Royals,71,91,0,.438,24.0,2011,"$36,126,000"
+Central,Minnesota Twins,63,99,0,.389,32.0,2011,"$112,737,000"
+West,Texas Rangers,96,66,0,.593,,2011,"$92,299,264"
+West,Los Angeles Angels,86,76,0,.531,10.0,2011,"$138,543,166"
+West,Oakland Athletics,74,88,0,.457,22.0,2011,"$66,536,500"
+West,Seattle Mariners,67,95,0,.414,29.0,2011,"$86,524,600"
+East,New York Yankees,95,67,0,.586,,2012,"$197,962,289"
+East,Baltimore Orioles,93,69,0,.574,2.0,2012,"$81,428,999"
+East,Tampa Bay Rays,90,72,0,.556,5.0,2012,"$64,173,500"
+East,Toronto Blue Jays,73,89,0,.451,22.0,2012,"$75,489,200"
+East,Boston Red Sox,69,93,0,.426,26.0,2012,"$173,186,617"
+Central,Detroit Tigers,88,74,0,.543,,2012,"$132,300,000"
+Central,Chicago White Sox,85,77,0,.525,3.0,2012,"$96,919,500"
+Central,Kansas City Royals,72,90,0,.444,16.0,2012,"$60,916,225"
+Central,Cleveland Indians,68,94,0,.420,20.0,2012,"$78,430,300"
+Central,Minnesota Twins,66,96,0,.407,22.0,2012,"$94,085,000"
+West,Oakland Athletics,94,68,0,.580,,2012,"$55,372,500"
+West,Texas Rangers,93,69,0,.574,1.0,2012,"$120,510,974"
+West,Los Angeles Angels,89,73,0,.549,5.0,2012,"$154,485,166"
+West,Seattle Mariners,75,87,0,.463,19.0,2012,"$81,978,100"
+East,Boston Red Sox,97,65,0,.599,,2013,$
+East,Tampa Bay Rays,92,71,0,.564,,2013,$
+East,Baltimore Orioles,85,77,0,.525,12.0,2013,$
+East,New York Yankees,85,77,0,.525,12.0,2013,$
+East,Toronto Blue Jays,74,88,0,.457,23.0,2013,$
+Central,Detroit Tigers,93,69,0,.574,,2013,$
+Central,Cleveland Indians,92,70,0,.568,1.0,2013,$
+Central,Kansas City Royals,86,76,0,.531,7.0,2013,$
+Central,Minnesota Twins,66,96,0,.407,27.0,2013,$
+Central,Chicago White Sox,63,99,0,.389,30.0,2013,$
+West,Oakland Athletics,96,66,0,.593,,2013,$
+West,Texas Rangers,91,72,0,.558,,2013,$
+West,Los Angeles Angels,78,84,0,.481,18.0,2013,$
+West,Seattle Mariners,71,91,0,.438,25.0,2013,$
+West,Houston Astros,51,111,0,.315,45.0,2013,$
+East,Baltimore Orioles,96,66,0,.593,,2014,"$107,406,623"
+East,New York Yankees,84,78,0,.518,12.0,2014,"$203,812,506"
+East,Toronto Blue Jays,83,79,0,.512,13.0,2014,"$132,628,700"
+East,Tampa Bay Rays,77,85,0,.475,19.0,2014,"$77,062,891"
+East,Boston Red Sox,71,91,0,.438,25.0,2014,"$162,817,411"
+Central,Detroit Tigers,90,72,0,.556,,2014,"$162,228,527"
+Central,Kansas City Royals,89,73,0,.549,1.0,2014,"$92,034,345"
+Central,Cleveland Indians,85,77,0,.525,5.0,2014,"$82,534,800"
+Central,Chicago White Sox,73,89,0,.451,17.0,2014,"$91,159,254"
+Central,Minnesota Twins,70,92,0,.432,20.0,2014,"$85,776,500"
+West,Los Angeles Angels,98,64,0,.605,,2014,"$155,692,000"
+West,Oakland Athletics,88,74,0,.543,10.0,2014,"$83,401,400"
+West,Seattle Mariners,87,75,0,.537,11.0,2014,"$92,081,943"
+West,Houston Astros,70,92,0,.432,28.0,2014,"$44,544,174"
+West,Texas Rangers,67,95,0,.414,31.0,2014,"$136,036,172"
+East,Toronto Blue Jays,93,69,0,.574,,2015,
+East,New York Yankees,87,75,0,.537,6.0,2015,
+East,Baltimore Orioles,81,81,0,.500,12.0,2015,
+East,Tampa Bay Rays,80,82,0,.494,13.0,2015,
+East,Boston Red Sox,78,84,0,.481,15.0,2015,
+Central,Kansas City Royals,95,67,0,.586,,2015,
+Central,Minnesota Twins,83,79,0,.512,12.0,2015,
+Central,Cleveland Indians,81,80,0,.503,,2015,
+Central,Chicago White Sox,76,86,0,.469,19.0,2015,
+Central,Detroit Tigers,74,87,0,.460,,2015,
+West,Texas Rangers,88,74,0,.543,,2015,
+West,Houston Astros,86,76,0,.531,2.0,2015,
+West,Los Angeles Angels,85,77,0,.525,3.0,2015,
+West,Seattle Mariners,76,86,0,.469,12.0,2015,
+West,Oakland Athletics,68,94,0,.420,20.0,2015,
+East,Boston Red Sox,93,69,0,.574,,2016,$
+East,Baltimore Orioles,89,73,0,.549,4.0,2016,$
+East,Toronto Blue Jays,89,73,0,.549,4.0,2016,$
+East,New York Yankees,84,78,0,.519,9.0,2016,$
+East,Tampa Bay Rays,68,94,0,.420,25.0,2016,$
+Central,Cleveland Indians,94,67,0,.584,,2016,$
+Central,Detroit Tigers,86,75,0,.534,8.0,2016,$
+Central,Kansas City Royals,81,81,0,.500,13.5,2016,$
+Central,Chicago White Sox,78,84,0,.481,16.5,2016,$
+Central,Minnesota Twins,59,103,0,.364,35.5,2016,$
+West,Texas Rangers,95,67,0,.586,,2016,$
+West,Seattle Mariners,86,76,0,.531,9.0,2016,$
+West,Houston Astros,84,78,0,.519,11.0,2016,$
+West,Los Angeles Angels,74,88,0,.457,21.0,2016,$
+West,Oakland Athletics,69,93,0,.426,26.0,2016,$
+East,Boston Red Sox,93,69,0,.574,,2017,
+East,New York Yankees,91,71,0,.562,2.0,2017,
+East,Tampa Bay Rays,80,82,0,.494,13.0,2017,
+East,Toronto Blue Jays,76,86,0,.469,17.0,2017,
+East,Baltimore Orioles,75,87,0,.463,18.0,2017,
+Central,Cleveland Indians,102,60,0,.630,,2017,
+Central,Minnesota Twins,85,77,0,.525,17.0,2017,
+Central,Kansas City Royals,80,82,0,.494,22.0,2017,
+Central,Chicago White Sox,67,95,0,.414,35.0,2017,
+Central,Detroit Tigers,64,98,0,.395,38.0,2017,
+West,Houston Astros,101,61,0,.623,,2017,
+West,Los Angeles Angels,80,82,0,.494,21.0,2017,
+West,Seattle Mariners,78,84,0,.481,23.0,2017,
+West,Texas Rangers,78,84,0,.481,23.0,2017,
+West,Oakland Athletics,75,87,0,.463,26.0,2017,
+East,Boston Red Sox,108,54,0,.667,,2018,"$206,247,686"
+East,New York Yankees,100,62,0,.617,8.0,2018,"$161,305,917"
+East,Tampa Bay Rays,90,72,0,.556,18.0,2018,"$69,605,999"
+East,Toronto Blue Jays,73,89,0,.451,35.0,2018,"$164,122,200"
+East,Baltimore Orioles,47,115,0,.290,61.0,2018,"$148,160,873"
+Central,Cleveland Indians,91,71,0,.562,,2018,"$136,652,167"
+Central,Minnesota Twins,78,84,0,.481,13.0,2018,"$129,560,000"
+Central,Detroit Tigers,64,98,0,.395,27.0,2018,"$111,286,000"
+Central,Chicago White Sox,62,100,0,.383,29.0,2018,"$86,050,333"
+Central,Kansas City Royals,58,104,0,.358,33.0,2018,"$115,483,116"
+West,Houston Astros,103,59,0,.636,,2018,"$172,038,900"
+West,Oakland Athletics,97,65,0,.599,6.0,2018,"$62,652,500"
+West,Seattle Mariners,89,73,0,.549,14.0,2018,"$165,303,943"
+West,Los Angeles Angels,80,82,0,.494,23.0,2018,"$171,248,332"
+West,Texas Rangers,67,95,0,.414,36.0,2018,"$128,821,249"
+East,New York Yankees,103,59,0,.636,,2019,"$208,084,848"
+East,Tampa Bay Rays,96,66,0,.593,7.0,2019,"$60,444,931"
+East,Boston Red Sox,84,78,0,.519,19.0,2019,"$222,171,123"
+East,Toronto Blue Jays,67,95,0,.414,36.0,2019,"$112,037,006"
+East,Baltimore Orioles,54,108,0,.333,49.0,2019,"$72,722,906"
+Central,Minnesota Twins,101,61,0,.623,,2019,"$121,276,933"
+Central,Cleveland Indians,93,69,0,.574,8.0,2019,"$119,241,701"
+Central,Chicago White Sox,72,89,0,.447,28.5,2019,"$89,354,534"
+Central,Kansas City Royals,59,103,0,.364,42.0,2019,"$100,658,316"
+Central,Detroit Tigers,47,114,0,.292,53.5,2019,"$116,478,400"
+West,Houston Astros,107,55,0,.660,,2019,"$160,774,666"
+West,Oakland Athletics,97,65,0,.599,10.0,2019,"$92,318,333"
+West,Texas Rangers,78,84,0,.481,29.0,2019,"$127,660,652"
+West,Los Angeles Angels,72,90,0,.444,35.0,2019,"$159,378,583"
+West,Seattle Mariners,68,94,0,.420,39.0,2019,"$150,906,143"
+East,Tampa Bay Rays,40,20,0,.667,,2020,
+East,New York Yankees,33,27,0,.550,7.0,2020,
+East,Toronto Blue Jays,32,28,0,.533,8.0,2020,
+East,Baltimore Orioles,25,35,0,.417,15.0,2020,
+East,Boston Red Sox,24,36,0,.400,16.0,2020,
+Central,Minnesota Twins,36,24,0,.600,,2020,
+Central,Chicago White Sox,35,25,0,.583,1.0,2020,
+Central,Cleveland Indians,35,25,0,.583,1.0,2020,
+Central,Kansas City Royals,26,34,0,.433,10.0,2020,
+Central,Detroit Tigers,23,35,0,.397,12.0,2020,
+West,Oakland Athletics,36,24,0,.600,,2020,
+West,Houston Astros,29,31,0,.483,7.0,2020,
+West,Seattle Mariners,27,33,0,.450,9.0,2020,
+West,Los Angeles Angels,26,34,0,.433,10.0,2020,
+West,Texas Rangers,22,38,0,.367,14.0,2020,
+East,Tampa Bay Rays,100,62,0,.617,,2021,
+East,Boston Red Sox,92,70,0,.568,8.0,2021,
+East,New York Yankees,92,70,0,.568,8.0,2021,
+East,Toronto Blue Jays,91,71,0,.562,9.0,2021,
+East,Baltimore Orioles,52,110,0,.321,48.0,2021,
+Central,Chicago White Sox,93,69,0,.586,,2021,
+Central,Cleveland Indians,80,82,0,.494,13.0,2021,
+Central,Detroit Tigers,77,85,0,.475,16.0,2021,
+Central,Kansas City Royals,74,88,0,.457,19.0,2021,
+Central,Minnesota Twins,73,89,0,.451,20.0,2021,
+West,Houston Astros,95,67,0,.586,,2021,
+West,Seattle Mariners,90,72,0,.556,5.0,2021,
+West,Oakland Athletics,86,76,0,.531,9.0,2021,
+West,Los Angeles Angels,77,85,0,.754,18.0,2021,
+West,Texas Rangers,60,102,0,.370,35.0,2021,
+East,New York Yankees,99,63,0,.611,,2022,
+East,Toronto Blue Jays,92,70,0,.568,7.0,2022,
+East,Tampa Bay Rays,86,76,0,.531,13.0,2022,
+East,Baltimore Orioles,83,79,0,.512,16.0,2022,
+East,Boston Red Sox,78,84,0,.481,21.0,2022,
+Central,Cleveland Guardians,92,70,0,.568,,2022,
+Central,Chicago White Sox,81,81,0,.500,11.0,2022,
+Central,Minnesota Twins,78,84,0,.481,14.0,2022,
+Central,Detroit Tigers,66,96,0,.407,26.0,2022,
+Central,Kansas City Royals,65,97,0,.401,27.0,2022,
+West,Houston Astros,106,56,0,.654,,2022,
+West,Seattle Mariners,90,72,0,.556,16.0,2022,
+West,Los Angeles Angels,73,89,0,.451,33.0,2022,
+West,Texas Rangers,68,94,0,.420,38.0,2022,
+West,Oakland Athletics,60,102,0,.370,46.0,2022,
+East,Baltimore Orioles,101,61,0,.623,,2023,
+East,Tampa Bay Rays,99,63,0,.611,2.0,2023,
+East,Toronto Blue Jays,89,73,0,.549,12.0,2023,
+East,New York Yankees,82,80,0,.506,19.0,2023,
+East,Boston Red Sox,78,84,0,.481,23.0,2023,
+Central,Minnesota Twins,87,75,0,.537,,2023,
+Central,Detroit Tigers,78,84,0,.481,9.0,2023,
+Central,Cleveland Guardians,76,86,0,.469,11.0,2023,
+Central,Chicago White Sox,61,101,0,.377,26.0,2023,
+Central,Kansas City Royals,56,106,0,.346,31.0,2023,
+West,Houston Astros,90,72,0,.556,,2023,
+West,Texas Rangers,90,72,0,.556,,2023,
+West,Seattle Mariners,88,74,0,.543,2.0,2023,
+West,Los Angeles Angels,73,89,0,.451,17.0,2023,
+West,Oakland Athletics,50,112,0,.309,40.0,2023,
