@@ -72,6 +72,15 @@ Render Deployment: https://mlb-history-dashboard.onrender.com/
 
 ## Screenshot 
 
+### Top Teams by Wins
+![Top Team by Wins](topteam.png)
+
+### Hitting Leaders 
+![Hitting Leaders](hitting.png)
+
+### Team Wins Over Time 
+![Team Wins Over Time](teamwin.png)
+
 
 
 
