@@ -76,6 +76,15 @@ app.layout = html.Div([
 #line chart showing slected teams wins over time
     html.Div([
         html.H2("Team Wins Over Time (1990-2020)"),
+        #add year range slider 
+        html.P("Select Year Range:"),
+        dcc.RangeSlider(
+        id='year-range-slider',
+        min=1990,
+        max=2023,
+        value=[1990, 2023],
+        marks={1990: '1990', 1995: '1995', 2000: '2000', 2005: '2005', 2010: '2010', 2015: '2015', 2020: '2020', 2023: '2023'}
+    ),
         html.P("Select teams to compare their wins over time."),
         dcc.Dropdown(
             id='team-dropdown',
@@ -156,12 +165,14 @@ def update_hitting_chart(year, statistic):
 #Queries all year of wins for that team and renders a line chart showing wins over time from 1990-2020
 @app.callback(
     Output('wins-line-chart', 'figure'),
-    Input('team-dropdown', 'value')
+    Input('team-dropdown', 'value'),
+    Input('year-range-slider', 'value')
 )
-def update_line_chart(team):
+def update_line_chart(team, year_range):
     df = get_data(
-        "SELECT year, wins FROM team_standings WHERE team = ? ORDER BY year",
-        params=(team,)
+        """SELECT year, wins FROM team_standings 
+        WHERE team = ? AND year BETWEEN ? AND ? ORDER BY year""",
+        params=(team, year_range[0], year_range[1])
     )
     df['year'] = df['year'].astype(str) # convert year to string so plotly treats it as a category not a number 
     #then line chart
